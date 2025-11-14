@@ -7,9 +7,8 @@
   
 </div>
 
-<br>
 ## About Me
-
+"""
 ```python
 class AspiringEngineer:
     def __init__(self):
@@ -33,7 +32,9 @@ class AspiringEngineer:
         return "Welcome to my GitHub!"
 
 me = AspiringEngineer()
-print(me.say_hello())
+print(me.say_hello())   
+"""
+
 
 <div align="center">
   
