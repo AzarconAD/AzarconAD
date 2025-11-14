@@ -7,6 +7,33 @@
   
 </div>
 
+## About Me
+
+```python
+class AspiringEngineer:
+    def __init__(self):
+        self.name = "Adam Daniel Padrigone Azarcon"
+        self.education = "Bachelor of Science in Computer Engineering"
+        self.interests = [
+            "Data Science",
+            "Artificial Intelligence", 
+            "Machine Learning",
+            "Software Development",
+            "Circuitry"
+        ]
+        self.current_focus = "Improving myself."
+        
+    def get_skills(self):
+        return {
+            'languages': ['Python', 'Flask', 'HTML/CSS'],
+            'concepts': ['Data Structures', 'Algorithms', 'OOP']
+        }
+    def say_hello(self):
+        return "Welcome to my GitHub!"
+
+me = AspiringEngineer()
+print(me.say_hello())
+
 <div align="center">
   
   ## GitHub Statistics
