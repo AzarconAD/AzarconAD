@@ -1,8 +1,20 @@
 <h2 align='center'> <i>Aspiring Computer Engineer | Data Science & AI Enthusiast</h2>  
 
-<img align="right" src="https://github.com/AzarconAD/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
+<div align="center">
+  
+  ![GitHub Profile Views](https://komarev.com/ghpvc/?username=AzarconAD&color=blueviolet&style=flat-square)
+  ![GitHub Followers](https://img.shields.io/github/followers/AzarconAD?label=Follow&style=social)
+  
+</div>
 
-<img align="right" src="https://github.com/AzarconAD/github-stats-transparent/blob/output/generated/languages.svg"  width="400">
+<div align="center">
+  
+  ## GitHub Statistics
+  
+  <img src="https://github.com/AzarconAD/github-stats-transparent/blob/output/generated/overview.svg" width="45%">
+  <img src="https://github.com/AzarconAD/github-stats-transparent/blob/output/generated/languages.svg" width="45%">
+  
+</div>
 
 <h3 align='center'><i>Connect with me:</i></h3>
 <p align='center'>
