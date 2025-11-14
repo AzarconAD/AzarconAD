@@ -7,10 +7,9 @@
   
 </div>
 
- <br>
+<br>
+
 ## About Me
-"""
-```python
 class AspiringEngineer:
     def __init__(self):
         self.name = "Adam Daniel Padrigone Azarcon"
@@ -20,7 +19,7 @@ class AspiringEngineer:
             "Artificial Intelligence", 
             "Machine Learning",
             "Software Development",
-            "Circuitry"
+            "Circuitry and Embedded Systems"
         ]
         self.current_focus = "Improving myself."
         
@@ -33,8 +32,7 @@ class AspiringEngineer:
         return "Welcome to my GitHub!"
 
 me = AspiringEngineer()
-print(me.say_hello())   
-"""
+print(me.say_hello())
 
 
 <div align="center">
