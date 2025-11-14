@@ -10,31 +10,38 @@
 <br>
 
 <h2 align='center'><i>About Me</i></h2>
-class AspiringEngineer:
-    
-    def __init__(self):
-        self.name = "Adam Daniel Padrigone Azarcon"
-        self.education = "Bachelor of Science in Computer Engineering"
-        self.interests = [
-            "Data Science",
-            "Artificial Intelligence", 
-            "Machine Learning",
-            "Software Development",
-            "Circuitry and Embedded Systems"
-        ]
-        self.current_focus = "Improving myself."
-        
-    def get_skills(self):
-        return {
-            'languages': ['Python', 'Flask', 'HTML/CSS'],
-            'concepts': ['Data Structures', 'Algorithms', 'OOP']
-        }
-    def say_hello(self):
-        return "Welcome to my GitHub!"
 
-me = AspiringEngineer()
+<div class="typewriter">
+    <div>
+        <p>
+            class AspiringEngineer:
+                def __init__(self):
+                    self.name = "Adam Daniel Padrigone Azarcon"
+                    self.education = "Bachelor of Science in Computer Engineering"
+                    self.interests = [
+                        "Data Science",
+                        "Artificial Intelligence", 
+                        "Machine Learning",
+                        "Software Development",
+                        "Circuitry and Embedded Systems"
+                    ]
+                    self.current_focus = "Improving myself."
+                    
+                def get_skills(self):
+                    return {
+                        'languages': ['Python', 'Flask', 'HTML/CSS'],
+                        'concepts': ['Data Structures', 'Algorithms', 'OOP']
+                    }
+                def say_hello(self):
+                    return "Welcome to my GitHub!"
 
-print(me.say_hello())
+            me = AspiringEngineer()
+            print(me.say_hello())
+        </p>
+    </div>
+</div>
+
+
 
 <h2 align='center'><i>Activity Graph</i></h2>
 
