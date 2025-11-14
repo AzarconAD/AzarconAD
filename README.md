@@ -9,7 +9,7 @@
 
 <br>
 
-## About Me
+<h2 align='center'><i>About Me</i></h2>
 class AspiringEngineer:
     
     def __init__(self):
@@ -33,6 +33,7 @@ class AspiringEngineer:
         return "Welcome to my GitHub!"
 
 me = AspiringEngineer()
+
 print(me.say_hello())
 
 <h2 align='center'><i>Activity Graph</i></h2>
