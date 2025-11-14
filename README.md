@@ -35,7 +35,12 @@ class AspiringEngineer:
 me = AspiringEngineer()
 print(me.say_hello())
 
-[![AD's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzarconAD)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align='center'><i>Activity Graph</i></h2>
+
+
+[![AD's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzarconAD&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <div align="center">
   
