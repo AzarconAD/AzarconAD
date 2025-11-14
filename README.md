@@ -11,6 +11,7 @@
 
 ## About Me
 class AspiringEngineer:
+    
     def __init__(self):
         self.name = "Adam Daniel Padrigone Azarcon"
         self.education = "Bachelor of Science in Computer Engineering"
@@ -34,6 +35,7 @@ class AspiringEngineer:
 me = AspiringEngineer()
 print(me.say_hello())
 
+[![AD's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzarconAD)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   
