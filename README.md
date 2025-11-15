@@ -25,10 +25,9 @@
 <div align="center">
   
   ## GitHub Statistics
-  
-  <img src="https://github.com/AzarconAD/github-stats/blob/output/generated/overview.svg" width="45%">
-  <img src="https://github.com/AzarconAD/github-stats/blob/output/generated/languages.svg" width="45%">
-  
+
+[![AD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzarconAD)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <h3 align='center'><i>Connect with me:</i></h3>
