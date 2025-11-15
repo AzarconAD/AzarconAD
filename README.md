@@ -26,8 +26,8 @@
   
   ## GitHub Statistics
   
-  <img src="https://github.com/AzarconAD/github-stats-transparent/blob/output/generated/overview.svg" width="45%">
-  <img src="https://github.com/AzarconAD/github-stats-transparent/blob/output/generated/languages.svg" width="45%">
+  <img src="https://github.com/AzarconAD/github-stats/blob/output/generated/overview.svg" width="45%">
+  <img src="https://github.com/AzarconAD/github-stats/blob/output/generated/languages.svg" width="45%">
   
 </div>
 
